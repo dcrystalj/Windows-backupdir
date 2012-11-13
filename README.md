@@ -1,4 +1,4 @@
 Windows-backupdir
 =================
-
-auto backup directory on different location, auto copy new items, useful for cloud backup services
+C# script.
+Auto backup some windows directory and store on different location, auto copy new items, useful for cloud like services.
